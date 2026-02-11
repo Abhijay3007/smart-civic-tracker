@@ -2,7 +2,7 @@
 
 A full-stack MERN application that enables citizens to report civic issues and allows administrators to manage and resolve them efficiently.
 
-🔗 **Live Frontend:** https://your-netlify-link.netlify.app  
+🔗 **Live Frontend:** https://698c3f33f9b89094bda5e070--delicate-croquembouche-8bb209.netlify.app/ 
 🔗 **Backend API:** https://smart-civic-tracker-3.onrender.com  
 
 ---
