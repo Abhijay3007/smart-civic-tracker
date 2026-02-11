@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://smart-civic-tracker.onrender.com/"
+  baseURL: "https://smart-civic-tracker-1.onrender.com/"
 });
 
 // Attach token to every request
